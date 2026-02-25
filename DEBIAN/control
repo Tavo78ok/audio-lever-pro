@@ -1,8 +1,9 @@
 Package: audio-leveler-pro
-Version: 1.0.0
+Version: 1.1.0
 Section: utils
 Priority: optional
 Architecture: all
 Depends: python3, python3-gi, gir1.2-gtk-4.0, gir1.2-adw-1, ffmpeg
-Maintainer: Tavo <el-tavo78@hotmail.com>
-Description: Nivelador de audio moderno basado en GTK4 y FFmpeg.
+Maintainer: Tavo78ok <tu-correo@ejemplo.com>
+Description: Nivelador de audio profesional con interfaz GTK4.
+ Normaliza el volumen de tus archivos MP3 a estándares LUFS sin perder las carátulas.
