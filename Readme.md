@@ -22,6 +22,7 @@ Una aplicación de escritorio moderna y eficiente para nivelar el volumen de arc
 3. Instálalo con:
    ```bash
    sudo dpkg -i audio-leveler-pro.deb
+   
    <img width="1440" height="900" alt="Captura de pantalla" src="https://github.com/user-attachments/assets/edfc0dbd-0d14-4ba9-ba1a-047320715817" />
 
 
